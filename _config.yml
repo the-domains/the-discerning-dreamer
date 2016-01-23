@@ -1,7 +1,7 @@
 name: The Discerning Dreamer
 favicon: null
-layout_spectrum: 0.16223377850838006
-typography_spectrum: 0.6199224868323654
+layout_spectrum: 0.11077
+typography_spectrum: 0.73953
 title: The Discerning Dreamer
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.821887725032866
+    - '#1b1b1b'
+    - '#5c5c5a'
+    - '#d3dae4'
+    - '#bcbaae'
+    - '#7b7871'
+  brandStrength: 1
   lightness: 0.4620201103389263
-  saturation: 0.4577770512551069
+  saturation: 0.4375
   rhythmicContrast: 0.8443924426101148
 purpose: []
