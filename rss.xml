@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Discerning Dreamer]]></title>
+        <description><![CDATA[The Discerning Dreamer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 04:18:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The First Post]]></title>
+            <description><![CDATA[<article><h1>The First Post</h1><p>I would like to thank Cameron for introducing The Grid to me. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a86b55f025ca9f33980a6c24f6c0e7f151fd6974.png"></article>]]></description>
+            <link>undefinedthe-first-post/index.html</link>
+            <guid isPermaLink="false">199f28cd-6a07-46a9-bfdc-55886e64c8fe</guid>
+            <pubDate>Sat, 23 Jan 2016 04:18:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
